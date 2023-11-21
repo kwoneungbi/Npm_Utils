@@ -1,0 +1,24 @@
+{
+  "name": "oncefn",
+  "version": "1.0.3",
+  "description": "once function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwoneungbi/utils.git"
+  },
+  "keywords": [
+    "once",
+    "onceFn"
+  ],
+  "author": "eunbi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kwoneungbi/utils/issues"
+  },
+  "homepage": "https://github.com/kwoneungbi/utils#readme"
+}
